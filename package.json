@@ -1,0 +1,1 @@
+{"dependencies":{"agents":"latest","viem":"latest"},"description":"RelayShield pre-payment judgment inside Cloudflare's x402 confirmation callback","devDependencies":{"@cloudflare/workers-types":"latest","typescript":"latest"},"name":"relayshield-x402-decision-gate","private":true,"scripts":{"check":"tsc --noEmit","test":"node --test test/"},"type":"module","version":"1.0.0"}
